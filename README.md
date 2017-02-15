@@ -5,7 +5,7 @@ nodejs ：4.4.3，express ：4.13.4，mongoDB ： 3.2.4，robomongo: 0.9.0-RC7
 ![package.json](https://dn-cnode.qbox.me/FiRDWBofIK4psu5Usq6bCShH6Rni)
 
 ## 学习例子：
-**nswbmw**的[一个简单的博客](https://github.com/nswbmw/N-blog/wiki/%E7%AC%AC1%E7%AB%A0--%E4%B8%80%E4%B8%AA%E7%AE%80%E5%8D%95%E7%9A%84%E5%8D%9A%E5%AE%A2)
+**nswbmw**的[一个简单的博客](https://github.com/nswbmw/N-blog/tree/backup)
 
 接下来，我将按照例子中的章节依次列出遇到的问题以及解决的方法。
 
